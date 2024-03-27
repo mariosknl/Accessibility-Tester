@@ -19,6 +19,6 @@
   "homepage": "https://github.com/mariosknl/Accessibility-Tester#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "pa11y": "^7.0.0"
+    "pa11y": "^8.0.0"
   }
 }
